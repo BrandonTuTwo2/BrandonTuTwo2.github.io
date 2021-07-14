@@ -3,13 +3,81 @@
 
 h1,h2 {
   text-align: center;
-  color: white;
-  font-family: "Roboto Slab", serif;
+  color: #002B4D;
+  font-family: "Merriweather", Georgia, serif;
   font-weight: 700;
   line-height: 1.5;
   margin: 0 0 1em 0;
 }
 
+p {
+  font-family: "Source Sans Pro", Helvetica, sans-serif;
+  color: #002B4D;
+  text-align: left;
+}
+
+
+.section {
+  border: 1px solid #eed7b7;
+  position: relative;
+}
+
+.section:after {
+  content: '';
+  display: block;
+  position: absolute;
+  width: 75%;
+  top: -5px;
+  left: 12%;
+  border: 1px solid grey;
+  text-align: center;
+}
+
+
+
+#main {
+  background-color: #eed7b7;
+  position: relative;
+  margin: 0 auto;
+  width: calc(100% - 4rem);
+  max-width: 72rem;
+  z-index: 2;
+}
+
+#nav {
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #1e252d;
+  width: 100%;
+  display: table;
+  text-align: center;
+}
+
+ul li {
+  display: inline-block;
+  float: none;
+}
+
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: white;
+  color: black;
+}
+
 body {
-  background-color: #002B4D;
+  background-color: #1e252d;
 }
