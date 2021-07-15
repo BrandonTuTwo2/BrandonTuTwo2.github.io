@@ -1,6 +1,10 @@
 @import url(fontawesome-all.min.css);
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:400,600,400italic,600italic|Roboto+Slab:400,700");
 
+body {
+  background-color: #1e252d;
+}
+
 h1,h2 {
   text-align: center;
   color: #002B4D;
@@ -20,6 +24,7 @@ p {
 .section {
   border: 1px solid #eed7b7;
   position: relative;
+  padding-bottom: 100px;
 }
 
 .section:after {
@@ -38,18 +43,24 @@ p {
 #main {
   background-color: #eed7b7;
   position: relative;
+  top: 100px;
   margin: 0 auto;
-  width: calc(100% - 4rem);
+  width: calc(100vm - 4rem);
   max-width: 72rem;
   z-index: 2;
+  padding: 20px;
+  text-align: center;
 }
 
 #nav {
   text-align: center;
+
 }
 
 ul {
-  list-style-type: none;
+  position: fixed;
+  border-radius: 25px;
+  border: 2px solid white;
   margin: 0;
   padding: 0;
   overflow: hidden;
@@ -57,6 +68,7 @@ ul {
   width: 100%;
   display: table;
   text-align: center;
+  z-index: 5;
 }
 
 ul li {
@@ -76,8 +88,4 @@ li a {
 li a:hover {
   background-color: white;
   color: black;
-}
-
-body {
-  background-color: #1e252d;
 }
