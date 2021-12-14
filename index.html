@@ -2,39 +2,35 @@
 <html lang="en" dir="ltr">
 
 <head>
-    <title>My Portfolio</title>
+    <title>Welcome</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
     <link rel="stylesheet" href="css/style.css" />
 </head>
 
 <body>
-    <div class="nav">
-        <ul>
-            <li><a class="active" href="#home">About Me</a></li>
-            <li><a href="#">Side Projects</a></li>
-            <li><a href="#">Resume</a></li>
-        </ul>
-    </div>
+    <nav class="navi">
+      <a href="#about-me">About Me</a>
+      <a href="#side-projects">Side Projects</a>
+      <a href="#workterm-reports">Co-op Work Term Reports</a>
+    </nav>
 
     <div id="main">
-        <h2>"welcome" the website said in a sinister tone</h2>
+        <h2>Hey there!</h2>
 
         <div class="section">
             <header class="major">
-                <h2>about me</h2>
+                <h2 id="about-me">About Me</h2>
             </header>
-            <p>this will be about me tests tes t set set s asdfasdfasdfsadf<br />
-                more testing resr aeraer aer aesrse</p>
+            <p class="text">My name is Brandon Tu and I'm a software engineering major at the University of Guelph currently in my 3rd year (thanks for asking) with an interest in web development. As for hobbies I love watching anime, reading comics, playing videogames and more recently getting into making drinks/cocktails </p>
         </div>
 
         <div class="section">
             <header class="major">
-                <h2>side projects</h2>
+                <h2 id="side-projects">Side Projects</h2>
             </header>
-            <p>Here are some of the side projects that I have worked on, I will keep this updated with different side projects as time goes on~</p>
-
             <div class="cardSet">
+
                 <div class="card">
                     <a class="linkSet" href="https://will-it-rain.herokuapp.com/" target=”_blank” aria-labelledby="person1"></a>
                     <img src="images/will-it-rain-pic.PNG" alt=''>
@@ -45,6 +41,7 @@
                         </div>
                     </div>
                 </div>
+
                 <div class="card">
                     <a class="linkSet"  href="https://cyber-city-comic.herokuapp.com/" target="_blank" aria-labelledby="person1"></a>
                     <img src="images/xkcd-comic-viewer-pic.PNG" alt=''>
@@ -55,6 +52,7 @@
                         </div>
                     </div>
                 </div>
+
                 <div class="card">
                     <a class="linkSet"  href="https://github.com/BrandonTuTwo2/repSetCounter" target="_blank" aria-labelledby="person1"></a>
                     <img src="images/rep-set-counter-pic.jpg" alt=''>
@@ -76,21 +74,34 @@
                         </div>
                     </div>
                 </div>
+
             </div>
+          </div>
             <div class="section">
                 <header class="major">
-                    <h2>resume</h2>
+                    <h2 id="workterm-reports">Co-op Work Term Reports</h2>
                 </header>
-                <embed type="application/pdf" src="resume-no-number.pdf" width="750" height="750">
-            </div>
+                <div class="cardSet">
+                  <div class="card">
+                      <a class="linkSet"  href="https://github.com/BrandonTuTwo2/word-replacer" target="_blank" aria-labelledby="person1"></a>
+                      <img src="images/s1-logo.png" alt=''>
+                      <div class="cardOverlay">
+                          <h3>System1</h3>
+                          <div class="cardBody">
+                              <p>Co-op work term report based on my intership at System1</p>
+                          </div>
+                      </div>
+                  </div>
+                </div>
 
+            </div>
+            <!-- contact will be gone for now
             <div class="section">
                 <header class="major">
                     <h2>Contact Me</h2>
                 </header>
                 <p>contact info goes here</p>
-            </div>
-
+            </div>-->
         </div>
 </body>
 
