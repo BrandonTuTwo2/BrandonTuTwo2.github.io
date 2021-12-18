@@ -3,10 +3,14 @@
 html{
    scroll-behavior: smooth;
 }
-body {
+.main_body {
    background-color: #1e252d;
    background-image: url('https://media.giphy.com/media/3ov9k1173PdfJWRsoE/giphy.gif');
    background-size: cover;
+}
+
+.post_body {
+  background-color: #1e252d;
 }
 h1, h2 {
    text-align: center;
@@ -22,8 +26,9 @@ p {
    text-align: left;
 }
 .text {
-   text-align: center;
-   padding: 0rem 8rem 0rem 8rem;
+   text-align: left;
+   padding: 0rem 10rem 0rem 10rem;
+   font-size: 1.2rem;
 }
 .section {
    padding-top: 5px;
@@ -36,7 +41,7 @@ p {
    display: block;
    position: absolute;
    width: 75%;
-   top: -5px;
+   top: 47px;
    left: 12%;
    border: 1px solid grey;
    text-align: center;
@@ -47,11 +52,25 @@ p {
    top: 100px;
    margin: 0 auto;
    width: calc(100vm - 4rem);
-   max-width: 72rem;
+   max-width: 80rem;
    z-index: 2;
    padding: 20px;
    text-align: center;
+   box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
 }
+
+ol {
+  padding: 0rem 12rem 0rem 12rem;
+}
+
+li {
+  font-family: "Source Sans Pro", Helvetica, sans-serif;
+  color: #002B4D;
+  text-align: left;
+  font-size: 1.2rem;
+  margin: 1rem 0;
+}
+
 nav {
    text-align: center;
    padding-top: 16px;
@@ -80,6 +99,7 @@ nav a:hover {
 .cardSet {
    cursor: pointer;
    display: grid;
+   justify-content: space-evenly;
    grid-template-columns: repeat(auto-fit, 17rem);
    gap: 1rem;
    padding-bottom: 20px;
@@ -90,7 +110,7 @@ nav a:hover {
    height: 19rem;
    background-color: lightGrey;
    overflow-y: hidden;
-   box-shadow: 0.1rem 0.1rem 1rem rgba(0, 0, 0, 0.1);
+   box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
 }
 .card h3 {
    cursor: pointer;
@@ -145,4 +165,24 @@ button {
    margin: 0;
    color: red;
    cursor: pointer;
+}
+
+.post-image {
+  width: 50%;
+  height: 50%;
+  display: inline;
+  padding-right: 10.5rem;
+  margin-left: 1rem;
+}
+.img-right {
+ text-align: right;
+}
+
+
+.text-box {
+  display: flex;
+}
+
+.text-box .text {
+  padding: 0rem 0rem 0rem 10rem;
 }
