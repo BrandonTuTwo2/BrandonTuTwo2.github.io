@@ -1,0 +1,105 @@
+###
+base_url = "https://brandontutwo2.github.io/"
+title = "Brandon Tu"
+description = "How did you get here?"
+default_language = "en"
+author = "Brandon Tu"
+theme = "halve-z"
+
+compile_sass = true
+minify_html = true
+generate_feeds = true
+build_search_index = true
+
+taxonomies = [
+    { name = "categories", feed = true },
+    { name = "tags", feed = true },
+]
+
+[search]
+include_title = true
+include_description = true
+include_path = false
+include_content = true
+index_format = "elasticlunr_json"
+
+[markdown]
+highlight_code = true
+highlight_theme = "css"
+highlight_themes_css = [
+    { theme = "OneHalfDark", filename = "syntax-theme-dark.css" },
+    { theme = "OneHalfLight", filename = "syntax-theme-light.css" },
+]
+render_emoji = false
+external_links_target_blank = true
+
+[slugify]
+paths = "safe"
+taxonomies = "safe"
+anchors = "safe"
+
+[extra]
+locale = "en_US"
+logo = "icon-192x192.png"
+manifest = "manifest.json"
+read_time = true
+toc = true
+csp = true
+
+[extra.placeholders]
+tags = false
+subtitle = false
+
+[extra.home]
+title = "Brandon Tu"
+subtitle = "Software Engineer, (Extremely) Amateur Bartender and Anime enthusiast"
+glitch = true
+logo = { enabled = false, height = "100", width = "100" }
+footer = true
+
+[extra.images]
+home = "c1tyh4ll.png" #https://failsafe.monster/c1tyh4ll.png
+post_list = "bk-prk.png" #https://failsafe.monster/bk-prk.jpg
+default_post = "bk-prk.png" #https://failsafe.monster/bk-prk.jpg
+categories = [
+    { name = "media", image = "https://raw.githubusercontent.com/bearcott/8bit-art/master/cities/urban.gif" },
+]
+
+[extra.menu]
+posts = true
+links = [
+    { name = "Projects", url = "@/pages/projects.md" },
+    { name = "Co-op reports", url = "@/pages/projects.md" },
+    { name = "Experience", url = "@/pages/projects.md" },
+]
+
+[extra.footer]
+enabled = true
+author = true
+copyright = true
+hash = true
+stack = true
+
+[extra.social]
+email = "bran.tu.work@gmail.com"
+github = "BrandonTuTwo2"
+linkedin = "brandon-tu-9219a91b7"
+
+[extra.comments]
+system = "none"
+
+[extra.comments.cactus]
+site = "site_name"
+page_size = 10
+guest_posting = true
+update_interval = 0
+
+[extra.comments.giscus]
+repo = "user_name/repo"
+repo_id = ""
+category = "Comments"
+category_id = ""
+mapping = "pathname"
+strict = "1"
+reactions = "1"
+lang = "en"
