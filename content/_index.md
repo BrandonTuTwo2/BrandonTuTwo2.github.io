@@ -3,6 +3,6 @@ template = "index.html"
 +++
 
 # Info
+[dsf](https://github.com/charlesrocket/halve-z) is a retro two-column theme for [Zola](https://github.com/getzola/zola). It features search, taxonomies, automatic color schemes, project cards, and a comment system.
 
-Welcome to my little slice of the internet, my portfolio. In here you'll find my work experiences, projects and maybe a cheeky post or two.
-
+The [documentation](https://github.com/charlesrocket/halve-z/blob/trunk/README.md) contains the full set of features and installation manuals.
