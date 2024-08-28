@@ -5,7 +5,7 @@ template = "page.html"
 draft = false
 +++
 
-{{ project(link="https://github.com/charlesrocket/halve-z") }}
+{{ project(link="https://github.com/BrandonTuTwo2/make-do") }}
 
 {{ project(link="https://github.com/keats/tera") }}
 
