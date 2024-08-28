@@ -53,7 +53,7 @@ subtitle = false
 [extra.home]
 title = "Brandon Tu"
 subtitle = "Software Engineer, (Extremely) Amateur Bartender and Anime enthusiast"
-glitch = true
+glitch = false
 logo = { enabled = false, height = "100", width = "100" }
 footer = true
 
