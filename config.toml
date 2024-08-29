@@ -69,7 +69,6 @@ categories = [
 posts = true
 links = [
     { name = "Projects", url = "@/pages/projects.md" },
-    { name = "Co-op reports", url = "@/pages/projects.md" },
     { name = "Experience", url = "@/pages/projects.md" },
 ]
 
