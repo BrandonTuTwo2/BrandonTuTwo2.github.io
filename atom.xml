@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Brandon Tu</title>
+    <subtitle>How did you get here?</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://brandontutwo2.github.io/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://brandontutwo2.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-08-29T00:00:00+00:00</updated>
+    <id>https://brandontutwo2.github.io/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Work Term Report 1</title>
+        <published>2024-08-29T00:00:00+00:00</published>
+        <updated>2024-08-29T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Brandon Tu
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://brandontutwo2.github.io/posts/workterm1/"/>
+        <id>https://brandontutwo2.github.io/posts/workterm1/</id>
+        
+        <content type="html" xml:base="https://brandontutwo2.github.io/posts/workterm1/">&lt;h2 id=&quot;Introduction&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#Introduction&quot; aria-label=&quot;Anchor link for: Introduction&quot;&gt;#&lt;&#x2F;a&gt;Introduction&lt;&#x2F;h2&gt;
+&lt;p&gt;My name is Brandon Tu and I am going into my third year of university majoring in software engineering, this post is about my 4-month work term(and first work term ever) at System1. In this post I will be discussing what System1 does, my goals for the work term, what I did at the company, some final remarks, and acknowledgements to the wonderful people who helped me out.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;About_System1&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#About_System1&quot; aria-label=&quot;Anchor link for: About_System1&quot;&gt;#&lt;&#x2F;a&gt;About System1&lt;&#x2F;h2&gt;
+&lt;p&gt;System1 is a technology company that specializes in Responsive Acquisition Marketing Platforms and has a plethora of brands and websites across the internet ranging from heath to cars. Fun fact the team I am part of (Publishing Front End) is a combination of 2 companies that were acquired by System1 (Qool Media and Concourse) here in Guelph.&lt;&#x2F;p&gt;
+&lt;figure&gt;
+    &lt;img class=&quot;align-center page-image&quot; src=&quot;&#x2F;s1-logo.png&quot; width=&quot;170&quot; height=&quot;170&quot; alt=&quot;S1 Logo&quot;&#x2F;&gt;&lt;figcaption&gt;S1 Logo&lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;&lt;h2 id=&quot;Goals&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#Goals&quot; aria-label=&quot;Anchor link for: Goals&quot;&gt;#&lt;&#x2F;a&gt;Goals&lt;&#x2F;h2&gt;
+&lt;p&gt;I had 3 main goals for this co-op term; the first was to learn more about web development technology (like PHP, SCSS, HTML, and JS) to further my knowledge of the process of creating and maintaining websites and web applications. The second was to advance my problem-solving skills so I could better solve issues without help and debug my code efficiently. My final goal was to improve upon my collaborative skills and ability to communicate with my peers.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Becoming more familiar with PHP - Throughout my work term, I became more proficient in Javascript and CSS while learning PHP, WordPress, and SCSS because I had to help create and maintain a plethora of WordPress templates for different sites to use and create functions that allow a single template to be used in different sites.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Problem Solving Abilities - During my work term (especially in the beginning) I had lots of issues I had to overcome whether that be setting up the work environment or making sure a certain component was able to run on all sites, and in tackling these problems I feel that I became better at finding the solution and better at understanding what I need to research to solve the problem at hand&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Becoming more collaborative - At system1 I was part of a team of around 13 and throughout the internship, I had daily standups where we discussed our progress and any issues we have with our current tasks. In doing these daily standups I got to better communicate my thoughts and concerns which in turn allowed me to develop my collaborative skills.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;Job_Description&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#Job_Description&quot; aria-label=&quot;Anchor link for: Job_Description&quot;&gt;#&lt;&#x2F;a&gt;Job Description&lt;&#x2F;h2&gt;
+&lt;p&gt;As a Jr. Fullstack Developer, I was tasked with creating, maintaining, and refactoring various websites that the company-owned. This entailed creating newly requested features, redesigning old sites to be more modern and using new functions to increase websites speed, and even helping create new sites from scratch based on mock designs. Throughout the job, most of the tasks required the usage of PHP while more front-end and styling tasks required me to use JS and SCSS (which were then compiled to CSS). One project that I enjoyed was the opportunity to help create a website from start to finish, as this allowed me to experience all the steps that go into creating a website from a mock to a working product and allowed me to get a better understanding of the whole web development process.&lt;&#x2F;p&gt;
+&lt;figure&gt;
+    &lt;img class=&quot;align-center page-image&quot; src=&quot;&#x2F;fullstack.png&quot; width=&quot;454&quot; height=&quot;278&quot; alt=&quot;S1 Logo&quot;&#x2F;&gt;&lt;figcaption&gt;S1 Logo&lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;&lt;h2 id=&quot;Conclusion&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#Conclusion&quot; aria-label=&quot;Anchor link for: Conclusion&quot;&gt;#&lt;&#x2F;a&gt;Conclusion&lt;&#x2F;h2&gt;
+&lt;p&gt;I enjoyed my time at System1 as it allowed me to learn more about web development and get the chance to understand how different technologies and languages work together to form a full-fledged product. Furthermore, System1 is full of warm people who are always willing to help one another and I couldn’t ask for a better place to have my first work term and people to learn from.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;Acknowledgement&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#Acknowledgement&quot; aria-label=&quot;Anchor link for: Acknowledgement&quot;&gt;#&lt;&#x2F;a&gt;Acknowledgement&lt;&#x2F;h2&gt;
+&lt;p&gt;I would love to thank my mentor Jonathan Li Kam Wa for always helping me and answering my (sometimes dumb) questions, Joel Tersigni for always giving me new challenges for me to tackle and memes to laugh at and Sam Hebeisen for always making me feel including and telling me about company events to go to.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Work Term Report 2</title>
+        <published>2024-08-29T00:00:00+00:00</published>
+        <updated>2024-08-29T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Brandon Tu
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://brandontutwo2.github.io/posts/workterm2/"/>
+        <id>https://brandontutwo2.github.io/posts/workterm2/</id>
+        
+        <content type="html" xml:base="https://brandontutwo2.github.io/posts/workterm2/">&lt;h2 id=&quot;Introduction&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#Introduction&quot; aria-label=&quot;Anchor link for: Introduction&quot;&gt;#&lt;&#x2F;a&gt;Introduction&lt;&#x2F;h2&gt;
+&lt;p&gt;My name is Brandon Tu and I am going into my fourth year of university majoring in software engineering. This post is about my second 4-month work term at System1. In this post I will be discussing my goals for the work term, what I did at the company, some differences between my first and second work term, some final remarks, and acknowledgements to the wonderful people who helped me out.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;Goals&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#Goals&quot; aria-label=&quot;Anchor link for: Goals&quot;&gt;#&lt;&#x2F;a&gt;Goals&lt;&#x2F;h2&gt;
+&lt;p&gt;The 3 main goals I had for this work term was to become more familiar with web development languages such as PHP and Javascript and how they work in tandem and learn more about the different API calls they have, to become better at communicating and working with others and to further develop my abilities to problem solve and write cleaner less fallible code.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Become more familiar with web languages -  Throughout my work term I did extensive work using Javascript, specially working on a Javascript library and rewriting various pieces of it to match modern standards, in doing so I further deepened my understanding of Javascript, learning how to use different API calls to solve issues that I had and even had the chance to make my own API that would make it easier to use the Javascript library we were making, overall I developed a better coding style that follows standards. I however did not get much of a change to work with PHP but I felt that my extensive work with Javascript more than made up for that.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Developing my communication abilities -  Since I had the opportunity to work in the office with the other software engineers I got to further develop my in person communication abilities and got to collaborate with others in person which in turn helped me become more comfortable sharing my ideas and talking about them.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Further developing problem solving abilities - During my work term I was given a massive project to rework a Javascript library to make it more accessible and easier for sites to onboard and use. In doing the project I had to problem solve and come up with various solutions that could be used given the restraints I had which developed my problem solving abilities searching for solutions that matched the criteria I had.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;Job_Description&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#Job_Description&quot; aria-label=&quot;Anchor link for: Job_Description&quot;&gt;#&lt;&#x2F;a&gt;Job Description&lt;&#x2F;h2&gt;
+&lt;p&gt;This work term I was still a Jr. full stack developer but was part of the Platform and Engagement team (PLTE) where we mainly worked on the ad injection into a site using various Javascript libraries that we use and maintain to bundle and inject ad logic onto web pages. As mentioned already, one project which I really liked was the one where I was tasked to rewrite a specific library to be easier to use and onboard new sites onto it quickly and easily.&lt;&#x2F;p&gt;
+&lt;figure&gt;
+    &lt;img class=&quot;align-center page-image&quot; src=&quot;&#x2F;typescript.png&quot; width=&quot;622&quot; height=&quot;370&quot; alt=&quot;S1 Logo&quot;&#x2F;&gt;&lt;figcaption&gt;S1 Logo&lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;&lt;h2 id=&quot;Differences_between_First_and_Second_Work_Term&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#Differences_between_First_and_Second_Work_Term&quot; aria-label=&quot;Anchor link for: Differences_between_First_and_Second_Work_Term&quot;&gt;#&lt;&#x2F;a&gt;Differences between First and Second Work Term&lt;&#x2F;h2&gt;
+&lt;p&gt;The major difference compared to my first work term and second work term at System1 was that instead of working on creating websites (using CSS, Javascript, PHP and Wordpress) I worked more on the behind the scenes ad injection which was mainly done in Javascript, flow and angular typescript. Additionally, since the office became more accessible due to the loosening of the covid-19 restriction I was able to work more in the office and experience a more typical co-op work term.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;Conclusion&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#Conclusion&quot; aria-label=&quot;Anchor link for: Conclusion&quot;&gt;#&lt;&#x2F;a&gt;Conclusion&lt;&#x2F;h2&gt;
+&lt;p&gt;In conclusion, I really valued my time at System1 once again as I got to learn more about working on a big Javascript library and and better understand how the library is used to produce content onto other webpages. Additionally, the people were always willing to lend me a hand and answer my questions if I had any and genuinely wanted me to learn which helped develop my confidence as a software engineer.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;Acknowledgement&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#Acknowledgement&quot; aria-label=&quot;Anchor link for: Acknowledgement&quot;&gt;#&lt;&#x2F;a&gt;Acknowledgement&lt;&#x2F;h2&gt;
+&lt;p&gt;Once again, I would like to thank my mentor Jonathan Li Kam Wa and the rest of the PLTE team for teaching more and being patient with me.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Work Term Report 3 &amp; 4 </title>
+        <published>2024-08-29T00:00:00+00:00</published>
+        <updated>2024-08-29T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Brandon Tu
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://brandontutwo2.github.io/posts/workterm34/"/>
+        <id>https://brandontutwo2.github.io/posts/workterm34/</id>
+        
+        <content type="html" xml:base="https://brandontutwo2.github.io/posts/workterm34/">&lt;h2 id=&quot;Introduction&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#Introduction&quot; aria-label=&quot;Anchor link for: Introduction&quot;&gt;#&lt;&#x2F;a&gt;Introduction&lt;&#x2F;h2&gt;
+&lt;p&gt;Hey there, I’m Brandon Tu and I’m going into my final 2 semesters of university majoring in software engineering with a minor in business. This will be my final post on my work term experience detailing the final 8 months of my  time at System1 which I was interning at for all of my other work terms. This post will start with the 3 goals I had this work term, the updated job description for my role, differences between my previous work terms and this one, and a conclusion and acknowledgment to the people that helped me during my time at System1. I hope you enjoy reading this!&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;About_System1&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#About_System1&quot; aria-label=&quot;Anchor link for: About_System1&quot;&gt;#&lt;&#x2F;a&gt;About System1&lt;&#x2F;h2&gt;
+&lt;p&gt;System1 is a technology advertising company that specializes in created software to streamline the process of rendering ads on a website, along with that System1 owns a plethora of websites and other software that we manage that are not advertising related. Fun fact the Guelph office&#x2F;branch which I work at was actually 2 companies(concourse and Qool Media) that got acquired by System1.&lt;&#x2F;p&gt;
+&lt;figure&gt;
+    &lt;img class=&quot;align-center page-image&quot; src=&quot;&#x2F;s1-logo.png&quot; width=&quot;170&quot; height=&quot;170&quot; alt=&quot;S1 Logo&quot;&#x2F;&gt;&lt;figcaption&gt;S1 Logo&lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;&lt;h2 id=&quot;Goals&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#Goals&quot; aria-label=&quot;Anchor link for: Goals&quot;&gt;#&lt;&#x2F;a&gt;Goals&lt;&#x2F;h2&gt;
+&lt;p&gt;The 3 goals I had for my last work term was to develop a greater understanding of typescript and angular typescript, take a greater initiative in learning new technologies and learning more about AWS technologies and how to leverage them.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Typescript - During this work term I had the opportunity to help develop a new ad distribution script with my team and both the client and server portion of the script was created with typescript. Thanks to being part of that project from start to MVP to being actually used in production I was able to develop my understanding of typescript further and better understand best practices when writing typescript.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Learning new technologies - I think this work term I had a great opportunity to learn new technologies since when I started my team was tasked with creating a more streamlined ad delivery solution so I had plenty of opportunities to learn work with various different technologies such as snowflake, typescript, severless and other aws technologies.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Learning about AWS technologies - During this work term I got to have more hands-on experience in working with AWS technologies since we relied on S3 and AWS lambda to host and run our project. In doing so I got a better understanding of how to configure Lambda and other AWS technologies via severless. I also learned how to measure various statistics related to our project such as cold start rates lambda invocations etc etc.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;Job_Description&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#Job_Description&quot; aria-label=&quot;Anchor link for: Job_Description&quot;&gt;#&lt;&#x2F;a&gt;Job Description&lt;&#x2F;h2&gt;
+&lt;p&gt;For my final work term, I was once again part of the Platform and Engagement team (PLTE). When I started my final work term the team was in the midst of planning a new project that would streamline how we deliver specific ads called Google RSoCs(related search on content) which uses the Google API to deliver relevant links to the page. In working on this project I had to be in various architect meetings where we discussed how we would design and implement this solution and I also had a hand in writing various functions and configurations that the solution would use&#x2F;rely on&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;Differences_between_First_and_Second_Work_Term&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#Differences_between_First_and_Second_Work_Term&quot; aria-label=&quot;Anchor link for: Differences_between_First_and_Second_Work_Term&quot;&gt;#&lt;&#x2F;a&gt;Differences between First and Second Work Term&lt;&#x2F;h2&gt;
+&lt;p&gt;I think the biggest difference between previous work terms and this one was that I was able to design and develop a new piece of software from start to being used in production which was very exciting and insightful into the software development process. Compared to previous work terms I was more involved in not only the coding aspect of the product but also the design aspect of the product which made me join a lot more meetings(usually discussing the design) when compared to previous work terms. Additionally, as compared to the last work terms I felt that I had more responsibility and say when developing the software since I was with System1 for a long time and I was more trusted since I had already proven myself to my other peers.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;Conclusion&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#Conclusion&quot; aria-label=&quot;Anchor link for: Conclusion&quot;&gt;#&lt;&#x2F;a&gt;Conclusion&lt;&#x2F;h2&gt;
+&lt;p&gt;In conclusion, I enjoyed my time at System1 because I felt that this work term was when I came out of my shell and participated more in the design process and the company overall. I am fortunate to have had the opportunity to join at a time when my team was developing a new product and was grateful for being a part of it and leaving my mark on the company. I hope that in the future I can come back to System1 if the chance occurs and I will take all that I learned there to heart.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;Acknowledgement&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#Acknowledgement&quot; aria-label=&quot;Anchor link for: Acknowledgement&quot;&gt;#&lt;&#x2F;a&gt;Acknowledgement&lt;&#x2F;h2&gt;
+&lt;p&gt;I would like to thank everyone that I worked with throughout my time at System1 such as Alan, Spencer, Jonathan, Paul, Dave, and Phil, and my wonderful team PLTE for helping nurture me and being patient with me. I hope that we will all meet again someday.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>
