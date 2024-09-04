@@ -2,7 +2,7 @@
 title = "Work Term Report 1"
 date = 2024-08-29
 [taxonomies]
-categories = ["media"]
+categories = ["workterms"]
 tags = ["wt", "university", "System1"]
 [extra]
 subtitle = "Archive of my first work term report"

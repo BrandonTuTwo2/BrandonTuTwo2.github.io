@@ -63,6 +63,8 @@ post_list = "bk-prk.png" #https://failsafe.monster/bk-prk.jpg
 default_post = "bk-prk.png" #https://failsafe.monster/bk-prk.jpg
 categories = [
     { name = "media", image = "https://raw.githubusercontent.com/bearcott/8bit-art/master/cities/urban.gif" },
+    { name = "workterms", image = "https://raw.githubusercontent.com/bearcott/8bit-art/master/cities/urban.gif" },
+    { name = "experience", image = "https://raw.githubusercontent.com/bearcott/8bit-art/master/cities/urban.gif" },
 ]
 
 [extra.menu]

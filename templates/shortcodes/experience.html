@@ -1,0 +1,20 @@
+<div class="projects frame-dim">
+  <h2>{{name}}</h2>
+  <ul class="project-list">
+    <li><b><span class="project-lang">{{company}} </span></b>{{date}}</li>
+    <li><ul class="project-lang"
+        {%- for point in points %}
+          ><li id="">{{ point }}</li
+            {%- if not loop.last %}
+            {%- endif %}
+        {%- endfor %}
+        ></ul></li>
+    <li><ul class="tags project-tags"
+        {%- for lang in langs %}
+          ><li id="info-tag">{{ lang }}</li
+            {%- if not loop.last %}
+            {%- endif %}
+        {%- endfor %}
+        ></ul></li>
+  </ul>
+</div>
